@@ -38,28 +38,6 @@ I am passionate about **data analysis, problem-solving, and storytelling through
 
 ---
 
-## 📜 Certifications
-- ✅ Google Data Analytics Professional Certificate
-- ✅ SQL Bootcamp
-- ✅ Advanced SQL Querying Techniques
-- ✅ Microsoft Advanced Excel and Power Query
-- ✅ Microsoft Power BI (Advanced)
-
----
-
-## 📂 Projects
-📌 I have worked on multiple **Data Analytics and Power BI projects**, focusing on real-world business problems.
-
-👉 Please explore my repositories below to see:
-- End-to-end data analysis projects
-- SQL-based analysis
-- Power BI dashboards
-- Insight-driven case studies
-
-⬇️ **Check my pinned repositories for featured projects**
-
----
-
 ## 📬 Let’s Connect
 - 📧 **Email:** prateek.sharma8368@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/prateek-sharma-p2002
