@@ -14,7 +14,7 @@ I am passionate about **data analysis, problem-solving, and storytelling through
 - 🏢 **Organization:** Tata Consultancy Services (TCS)
 - 📌 **Project:** Passport Seva Project (India)
 - ⏳ **Experience:** 1+ year
-- 🔍 **Role:** Data Analysis & Database Support
+- 🔍 **Role:** Data Analysis & Database Support Engineer
 - 🗄️ Working with structured databases and resolving daily data-related issues
 - 📈 Supporting analytics, reporting, and operational insights
 
@@ -30,23 +30,10 @@ I am passionate about **data analysis, problem-solving, and storytelling through
 
 ---
 
-## 🎓 Education & Achievements
-- 🎓 **B.Sc. in Statistics** — Amity University, Noida  
-  📊 **85% overall**
-- 🏆 **IIT JAM 2024 Qualified**  
-  📌 **All India Rank (AIR): 134**
-
----
-
 ## 📬 Let’s Connect
 - 📧 **Email:** prateek.sharma8368@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/prateek-sharma-p2002
 - 🌐 **GitHub:** https://github.com/PrateekSharma8368
-
----
-
-## 🚀 Career Goal
-I aim to grow as a **Data Analyst**, working on impactful projects that leverage data to solve complex problems, support decision-making, and drive measurable outcomes.
 
 ---
 
