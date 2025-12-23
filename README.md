@@ -15,12 +15,11 @@ I am passionate about **data analysis, problem-solving, and storytelling through
 - 📌 **Project:** Passport Seva Project (India)
 - ⏳ **Experience:** 1+ year
 - 🔍 **Role:** Data Analysis & Database Support Engineer
-- 🗄️ Working with structured databases and resolving daily data-related issues
 - 📈 Supporting analytics, reporting, and operational insights
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Certified in Skills & Tools
 - 📊 Data Analysis
 - 🧮 SQL (Advanced Queries, Joins, Subqueries, Optimization)
 - 📈 Power BI (DAX, Data Modeling, Interactive Dashboards)
